@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    border-style: double;
+    color : rgb(255, 0, 170);
+    margin: 0px;
+}
+
+header {
+    background-color: black ;
+    border-style: double;
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(255, 0, 170);
+}
+
+section {
+    background-color: black;
+    border-style: double;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+section {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+div {
+    background-color: black;
+    border-style: double;
+    margin-right: 20px;
+}
+
+.chamada-texto {
+    margin-right: 20px;
+}
+
+img {
+    height: 200px;
+  }
